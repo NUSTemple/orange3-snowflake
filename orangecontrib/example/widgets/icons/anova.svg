@@ -9,7 +9,7 @@
  </g>
  <g>
   <title>Layer 1</title>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="16" id="svg_1" y="20.960825" x="0.746295" stroke-width="0" stroke="#000" fill="#000000">Micron</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_2" y="39.617521" x="3.582113" stroke-width="0" stroke="#000" fill="#000000">Widgets</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_1" y="20.960825" x="0.746295" stroke-width="0" stroke="#000" fill="#000000">ANOVA</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_2" y="39.766775" x="2.686592" stroke-width="0" stroke="#000" fill="#000000">Analysis</text>
  </g>
 </svg>

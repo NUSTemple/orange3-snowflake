@@ -5,9 +5,9 @@ from os import path, walk
 import sys
 from setuptools import setup, find_packages
 
-NAME = "Orange3 Example Add-on"
+NAME = "Orange3-Demo"
 
-VERSION = "0.0.3"
+VERSION = "0.0.1"
 
 DESCRIPTION = "Add-on containing example widgets"
 LONG_DESCRIPTION = open(path.join(path.dirname(__file__), 'README.md')).read()
@@ -53,7 +53,7 @@ ENTRY_POINTS = {
         # Syntax: category name = path.to.package.containing.widgets
         # Widget category specification can be seen in
         #    orangecontrib/example/widgets/__init__.py
-        'Examples = orangecontrib.example.widgets',
+        'Micron = orangecontrib.example.widgets',
     ),
 
     # Register widget help
