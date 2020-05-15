@@ -5,11 +5,11 @@ from Orange.widgets.widget import OWWidget, Output, Input
 from Orange.widgets.settings import Setting
 from Orange.widgets import gui
 
-class Anova(OWWidget):
+class Snowflake(OWWidget):
     # Widget needs a name, or it is considered an abstract widget
     # and not shown in the menu.
-    name = "Anova"
-    icon = "icons/anova.svg"
+    name = "Snowflake"
+    icon = "icons/snowflake.svg"
     want_main_area = True
 
     class Inputs:

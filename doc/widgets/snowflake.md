@@ -1,7 +1,7 @@
 Hello World
 ===========
 
-![image](icons/mywidget.png)
+![image](icons/snowflake.png)
 
 A dummy widget that greets the world.
 
